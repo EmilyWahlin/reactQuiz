@@ -1,7 +1,7 @@
-import { useEffect, useState } from "react";
+// import { useEffect, useState } from "react";
 
-export async function QuizApi(): Promise<Question[]> {
-    const URL = "https://opentdb.com/api.php?amount=10&category=20&difficulty=easy&type=multiple";
+// export async function QuizApi(): Promise<Question[]> {
+//     const URL = "https://opentdb.com/api.php?amount=10&category=20&difficulty=easy&type=multiple";
 
 
 
@@ -12,4 +12,4 @@ export async function QuizApi(): Promise<Question[]> {
 //     question: string;
 //     correct_answer: string;
 //     incorrect_answers: string[];
-// 
+//
